@@ -1,0 +1,12 @@
+c:\users\ragha\source\repos\App5\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+c:\users\ragha\source\repos\App5\App5\App5\bin\Debug\netstandard2.0\App5.dll
+c:\users\ragha\source\repos\App5\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+c:\users\ragha\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.csprojAssemblyReference.cache
+c:\users\ragha\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\ragha\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+c:\users\ragha\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.csproj.CoreCompileInputs.cache
+c:\users\ragha\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+c:\users\ragha\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+c:\users\ragha\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\XamlC.stamp
+c:\users\ragha\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.dll
+c:\users\ragha\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.pdb
